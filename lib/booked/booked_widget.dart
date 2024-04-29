@@ -369,7 +369,7 @@ class _BookedWidgetState extends State<BookedWidget>
                       animationsMap['textOnPageLoadAnimation1']!),
                 ),
                 Text(
-                  'Badminton\n\n21/04/2024    9:00 PM',
+                  'Badminton\n\n29/04/2024    5:00 PM',
                   style: FlutterFlowTheme.of(context).labelMedium.override(
                         fontFamily: 'Readex Pro',
                         letterSpacing: 0.0,

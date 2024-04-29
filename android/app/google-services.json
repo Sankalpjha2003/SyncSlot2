@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994616971209",
+    "project_id": "syncslot-b9de0",
+    "storage_bucket": "syncslot-b9de0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994616971209:android:2b98095292b5f67488a218",
+        "android_client_info": {
+          "package_name": "com.mycompany.syncslot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0w8aF26SYvE7GtWeBBi835nyAQCr1Fqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
